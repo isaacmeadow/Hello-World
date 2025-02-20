@@ -36,7 +36,7 @@ This is where we would explain <ins>how to run the program</ins> and what files 
 
 ### Additional Documentation
 
-We have no additonal documentation right now. But here is a picture of Kinnick Stadium! ![alt text] (![University-of-Iowa-Kinnick-Stadium](https://github.com/user-attachments/assets/a422d92c-bcf1-47f6-b66d-ff9dab34db6d))
+We have no additonal documentation right now. But here is a picture of Kinnick Stadium! ![alt text] (![University-of-Iowa-Kinnick-Stadium](https://github.com/user-attachments/assets/a422d92c-bcf1-47f6-b66d-ff9dab34db6d)
 
 ## Versioning
 
