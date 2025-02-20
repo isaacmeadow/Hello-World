@@ -27,7 +27,7 @@ This is where we would explain <ins>how to run the program</ins> and what files 
 4. examples.html
 
 ## Files Used
-- [ ] Did you use any datafiles?
+- [ x] Did you use any datafiles?
 - [ ] List filenames
 - [ ] Where you got them
 - [ ] What is contained within the data files
