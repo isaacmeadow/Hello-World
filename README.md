@@ -18,7 +18,7 @@ This repsitory serves as an introduction to GitHub while exploring the different
 
 ## How to run program
 
-This is where we would explain <ins>how to run the program</ins> and what files would even need to be available.
+This is where we would explain ***<ins>how to run the program</ins>*** and what files would even need to be available.
 
 ### Hello_World/
 1. README.md
